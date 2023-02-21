@@ -1,6 +1,6 @@
 {
   "name": "@tidepool/direct-io",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Direct IO helpers for block devices and regular files on FreeBSD, Linux, macOS and Windows.",
   "main": "binding.node",
   "files": [
@@ -44,9 +44,9 @@
     "zero copy"
   ],
   "contributors": [
-      "Joran Dirk Greef",
-      "Gerrit Niezen"
-    ],
+    "Joran Dirk Greef",
+    "Gerrit Niezen"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tidepool-org/direct-io/issues"
