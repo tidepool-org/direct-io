@@ -1,3 +1,5 @@
+*Note: This is a fork to add Electron v21+ compatibility.*
+
 # direct-io
 
 Direct IO helpers for block devices and regular files on FreeBSD, Linux, macOS
